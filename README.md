@@ -1,2 +1,2 @@
 # pythontidbits
-littletidbits
+little tidbits of pyton
